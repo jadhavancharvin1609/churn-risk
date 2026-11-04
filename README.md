@@ -1,4 +1,4 @@
-# Customer Churn Risk Workbench - Medium
+# Customer Churn Risk Workbench 
 
 A customer-success tool that ranks accounts by churn risk and recommends a human follow-up. It trains a logistic-regression model implemented with NumPy, so the model logic remains visible and explainable.
 
